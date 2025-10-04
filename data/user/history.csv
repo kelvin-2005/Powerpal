@@ -1,0 +1,13 @@
+month,bill_aed,tariff,home_type,size,occupants,setpoint,led_pct
+2024-11,340.0,0.3,apartment,M,3,23,50
+2024-12,340.0,0.3,apartment,M,3,23,50
+2025-01,340.0,0.3,apartment,M,3,23,50
+2025-02,340.0,0.3,apartment,M,3,23,50
+2025-03,340.0,0.3,apartment,M,3,23,50
+2025-04,340.0,0.3,apartment,M,3,23,50
+2025-05,480.0,0.3,apartment,M,3,24,50
+2025-06,480.0,0.3,apartment,M,3,24,50
+2025-07,480.0,0.3,apartment,M,3,24,50
+2025-08,380.0,0.3,apartment,M,3,24,40
+2025-09,410.0,0.3,apartment,M,3,24,50
+2025-10,480.0,0.3,apartment,M,3,24,50

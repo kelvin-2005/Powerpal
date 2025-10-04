@@ -1,0 +1,12 @@
+date,action_type,delta,est_kwh_saved,est_aed_saved,source
+2025-10-03,setpoint,1,45.0,14.0,seed
+2025-10-03,led,50,22.0,6.6,seed
+2025-10-04,led,50,12.7,3.81,model
+2025-10-04,setpoint,1,6.49,1.95,model
+2025-10-04,setpoint,1,6.49,1.95,model
+2025-10-04,setpoint,1,6.49,1.95,model
+2025-10-04,setpoint,1,6.49,1.95,model
+2025-10-04,setpoint,1,6.49,1.95,model
+2025-10-04,setpoint,1,6.57,1.97,model
+2025-10-04,setpoint,1,6.57,1.97,model
+2025-10-04,led,50,17.89,5.37,model

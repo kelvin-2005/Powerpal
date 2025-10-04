@@ -1,0 +1,1 @@
+{"dirichlet_lambda": 135.58217026308543, "temperature_tau": 1.0, "calibration_meta": {"target_ci": 0.95, "achieved_coverage": 0.9509, "n_val": 3000, "val_source": "data\\synthetic\\val_preds_lgbm.csv"}}
